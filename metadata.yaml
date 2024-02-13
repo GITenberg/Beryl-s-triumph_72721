@@ -1,0 +1,31 @@
+_repo: Beryl-s-triumph_72721
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thorne, Eglanton
+    alias: Charlton, Elizabeth Emily
+    birthdate: 1852
+    deathdate: 1907
+    gutenberg_agent_id: '56000'
+    url: http://www.gutenberg.org/2009/agents/56000
+description: ''
+gutenberg_issued: '2024-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72721'
+language: en
+pgterms:marc905: 20231225172352thorne
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Women heroes -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Beryl's triumph
+url: http://www.gutenberg.org/ebooks/72721
